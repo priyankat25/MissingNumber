@@ -1,2 +1,2 @@
 # MissingNumber
-To find missing number of the given String
+Find missing number of the given String
